@@ -9,7 +9,7 @@ __pycache__/
 *$py.class
 *.so
 
-# Model files (opsional - hapus jika ingin commit model)
+# Model files (optional - hapus jika ingin commit model)
 *.h5
 *.pkl
 
